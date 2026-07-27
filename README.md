@@ -258,6 +258,8 @@ flutter run
 ## Developer
 
 **Hassan Ferdous Amil**
+**Jaimul Haque**
+**Ezabul Alam**
 
 **Supervised by:** Md. Maruf Billah — Lecturer, Department of CSE, BUBT
 
