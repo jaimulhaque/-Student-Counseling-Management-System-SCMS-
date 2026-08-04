@@ -257,7 +257,7 @@ flutter run
 
 ## Developer
 
-
+**Hassan Ferdous Amil**
 **Jaimul Haque**
 **Ezabul Alam**
 
